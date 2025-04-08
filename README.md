@@ -1,0 +1,1 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/renatabmagro/hetero-flood-interactive-demo/blob/main/customize-sensors-placement-v2.ipynb)
