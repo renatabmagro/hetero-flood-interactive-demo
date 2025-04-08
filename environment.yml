@@ -1,0 +1,29 @@
+name: jupyter-webapp-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - ipykernel
+  - jupyterlab
+  - jupyter
+  - pysheds
+  - folium
+  - geopandas
+  - matplotlib
+  - rasterio
+  - pyproj
+  - xarray
+  - branca
+  - earthpy
+  - leafmap
+  - contextily
+  - bqplot
+  - voila
+  - ipywidgets
+  - ipyleaflet
+  - ipytree
+  - ipyvue
+  - ipyvuetify
+  - anywidget
+
