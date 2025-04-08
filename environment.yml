@@ -4,6 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.12
+  - numpy=1.26.4
   - ipykernel
   - jupyterlab
   - jupyter
